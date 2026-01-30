@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/hackday/__init__.py
+src/hackday/main.py
+src/hackday.egg-info/PKG-INFO
+src/hackday.egg-info/SOURCES.txt
+src/hackday.egg-info/dependency_links.txt
+src/hackday.egg-info/top_level.txt
