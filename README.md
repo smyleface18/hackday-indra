@@ -46,3 +46,10 @@ Ejecutar el proyecto:
 ```bash
 python -m hackday.main
 ```
+
+### 4. Uso: interfaz de chat en Streamlit
+
+Para levantar la interfaz visual del asistente energético:
+
+```bash
+streamlit run app/chat_ui.py

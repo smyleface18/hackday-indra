@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Metadata-Version: 2.4
 Name: hackday
 Version: 0.1.0
 License-File: LICENSE
 Dynamic: license-file
+=======
+Metadata-Version: 2.4
+Name: hackday
+Version: 0.1.0
+License-File: LICENSE
+Dynamic: license-file
+>>>>>>> cf87721 (feat: add interface the app in streamlit)
