@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Metadata-Version: 2.4
 Name: hackday
 Version: 0.1.0
@@ -10,4 +11,15 @@ Name: hackday
 Version: 0.1.0
 License-File: LICENSE
 Dynamic: license-file
+>>>>>>> 059274e152eed62b0d9186350678331e3e3d19fb
+=======
+Metadata-Version: 2.4
+Name: hackday
+Version: 0.1.0
+License-File: LICENSE
+Dynamic: license-file
+<<<<<<< HEAD
 >>>>>>> cf87721 (feat: add interface the app in streamlit)
+=======
+>>>>>>> 2bb66e68e7b2e802ef1bf0ac1e5d365fbef3c778
+>>>>>>> 059274e152eed62b0d9186350678331e3e3d19fb
